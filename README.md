@@ -15,8 +15,11 @@ A simple Todo app built with Flutter using the MVVM (Model-View-ViewModel) archi
    ```bash
    git clone https://github.com/your-username/todo-app.git
    cd todo-app
-Install dependencies:
-flutter pub get
 
-Run the app:
-flutter run
+ Install dependencies:
+   ```bash
+   flutter pub get
+
+ Run the app:
+   
+   flutter run
